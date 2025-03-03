@@ -49,7 +49,7 @@
 
 						<footer class="hidden text-center md:block mb-5">
 							<p>🚀 Created by <a href="https://github.com/XuanTruong365" class="hover:text-link-color" target="_blank">Xuan Truong</a></p>
-							<a href="" class="hover:text-link-color" target="_blank">Code available on Github 👾</a>
+							<a href="https://github.com/XuanTruong365/Portfolio" class="hover:text-link-color" target="_blank">Code available on Github 👾</a>
 						</footer>
 					</div>
 				</div>
@@ -58,7 +58,7 @@
 				</div>
 				<footer class="block text-center text-sm md:hidden order-last mb-5">
 					<p>🚀 Created by <a href="https://github.com/XuanTruong365" class="hover:text-link-color" target="_blank">Xuan Truong</a></p>
-					<a href="" class="hover:text-link-color" target="_blank">Code available on Github 👾</a>
+					<a href="https://github.com/XuanTruong365/Portfolio" class="hover:text-link-color" target="_blank">Code available on Github 👾</a>
 				</footer>
 			</div>
 		</div>

@@ -121,7 +121,7 @@ const works = [
     },
     {
         projectName: "YANE",
-        yearCompleted: "2022",
+        yearCompleted: "03/2024 - 02/2025",
         description: "YANE is a real estate platform where users can create personal and common templates based on technical specifications and basic parameters to design properties. These templates can then be shared with property owners for collaboration and customization.",
         techStack: "Vue.js, Bootstrap, Pinia, Vue-Route, Lodash, Axios, PHP (Laravel), Websocket, Mysql, Redis, Pusher, Docker, AWS S3, Microservice",
         links: [
@@ -152,7 +152,9 @@ const works = [
         techStack: "HTML, CSS, Bootstrap, JS, Vue.js",
         links: [
             {
-
+                label: "",
+                type: "external",
+                url: ""
             }
         ],
         imageLink: "images/profile.png",
