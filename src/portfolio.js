@@ -23,8 +23,8 @@ const greeting = {
     intro: "Hello 👋, my name is",
     name: "Xuan Truong",
     message: "I am a web developer with 2 years of experience, specializing in PHP (Laravel) and Vue.js. With a strong problem-solving mindset and a passion for building efficient web applications, I am always eager to learn and take on new challenges. Currently, I am based in Hanoi, Vietnam. 🚀",
-    basedLocation: "Ha Noi, City",
-    resumeLink: "https://drive.google.com/file/d/14av9BOY-Y3HT-5pTH2EY-JS0-TexhnlO/view?usp=sharing", // recommended: google drive file share link (change to "anyone on the internet can view")
+    basedLocation: "Ha Noi, Viet Nam",
+    resumeLink: "https://drive.google.com/file/d/1VIYtfhZPH9lRUzzWqxJP4HMnLpcD5rm1/view?usp=sharing", // recommended: google drive file share link (change to "anyone on the internet can view")
     logo: {
         link: "images/logo.png", // use relative path from  parent directory -> ex: images/image.ext
         custom: true // takes precedence over image logo and allows for custom HTML logo (./components/Navbar.vue)
@@ -154,7 +154,7 @@ const works = [
             {
                 label: "",
                 type: "external",
-                url: ""
+                url: "https://portfolio-ruddy-pi-44.vercel.app/"
             }
         ],
         imageLink: "images/profile.png",
@@ -174,7 +174,7 @@ const contact = {
         ], // paragraph breaks will be entered after each item,
         link: {
             email: "xuantruongcoder@gmail.com", // email takes precedance
-            other: "https://drive.google.com/file/d/14av9BOY-Y3HT-5pTH2EY-JS0-TexhnlO/view?usp=sharing" //cv
+            other: "https://drive.google.com/file/d/1VIYtfhZPH9lRUzzWqxJP4HMnLpcD5rm1/view?usp=sharing" //cv
         },
         responseTimeMessage: ""
     },
